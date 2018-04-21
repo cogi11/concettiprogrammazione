@@ -1,7 +1,6 @@
-# concettiprogrammazione
-- Guida a cura di cogi11 -https://github.com/cogi11
+# Concetti fondamentali di programmazione
 
-Concetti fondamentali di programmazione
+- Guida a cura di cogi11 -https://github.com/cogi11
 
 Intro - Questa guida vuole essere un'introduzione ai concetti base della programmazione informatica.
 
